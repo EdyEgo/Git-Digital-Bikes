@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Digi_bikes_2/static/css/main.0cbc1b55.chunk.css",
-    "main.js": "/Digi_bikes_2/static/js/main.40d9667e.chunk.js",
-    "main.js.map": "/Digi_bikes_2/static/js/main.40d9667e.chunk.js.map",
-    "runtime-main.js": "/Digi_bikes_2/static/js/runtime-main.dd88d0ca.js",
-    "runtime-main.js.map": "/Digi_bikes_2/static/js/runtime-main.dd88d0ca.js.map",
-    "static/js/2.a3c5e9d5.chunk.js": "/Digi_bikes_2/static/js/2.a3c5e9d5.chunk.js",
-    "static/js/2.a3c5e9d5.chunk.js.map": "/Digi_bikes_2/static/js/2.a3c5e9d5.chunk.js.map",
-    "static/js/3.e65a998a.chunk.js": "/Digi_bikes_2/static/js/3.e65a998a.chunk.js",
-    "static/js/3.e65a998a.chunk.js.map": "/Digi_bikes_2/static/js/3.e65a998a.chunk.js.map",
-    "index.html": "/Digi_bikes_2/index.html",
-    "static/css/main.0cbc1b55.chunk.css.map": "/Digi_bikes_2/static/css/main.0cbc1b55.chunk.css.map",
-    "static/js/2.a3c5e9d5.chunk.js.LICENSE.txt": "/Digi_bikes_2/static/js/2.a3c5e9d5.chunk.js.LICENSE.txt"
+    "main.css": "/Git-Digital-Bikes/static/css/main.0cbc1b55.chunk.css",
+    "main.js": "/Git-Digital-Bikes/static/js/main.40d9667e.chunk.js",
+    "main.js.map": "/Git-Digital-Bikes/static/js/main.40d9667e.chunk.js.map",
+    "runtime-main.js": "/Git-Digital-Bikes/static/js/runtime-main.dd88d0ca.js",
+    "runtime-main.js.map": "/Git-Digital-Bikes/static/js/runtime-main.dd88d0ca.js.map",
+    "static/js/2.a3c5e9d5.chunk.js": "/Git-Digital-Bikes/static/js/2.a3c5e9d5.chunk.js",
+    "static/js/2.a3c5e9d5.chunk.js.map": "/Git-Digital-Bikes/static/js/2.a3c5e9d5.chunk.js.map",
+    "static/js/3.e65a998a.chunk.js": "/Git-Digital-Bikes/static/js/3.e65a998a.chunk.js",
+    "static/js/3.e65a998a.chunk.js.map": "/Git-Digital-Bikes/static/js/3.e65a998a.chunk.js.map",
+    "index.html": "/Git-Digital-Bikes/index.html",
+    "static/css/main.0cbc1b55.chunk.css.map": "/Git-Digital-Bikes/static/css/main.0cbc1b55.chunk.css.map",
+    "static/js/2.a3c5e9d5.chunk.js.LICENSE.txt": "/Git-Digital-Bikes/static/js/2.a3c5e9d5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.dd88d0ca.js",
