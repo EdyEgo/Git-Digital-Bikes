@@ -2,7 +2,7 @@
   "name": "digital-bikes",
   "version": "0.1.0",
   "private": true,
-   "homepage":"https://edyego.github.io/Digi_bikes_2",
+   "homepage":"https://edyego.github.io/Git-Digital-Bikes",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
     "@fortawesome/free-solid-svg-icons": "^5.15.3",
